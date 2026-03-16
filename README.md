@@ -4,7 +4,7 @@
 **Institución:** UTEQ  
 **Repositorio:** [https://github.com/REYBENAVIDES/examen-aws.git](https://github.com/REYBENAVIDES/examen-aws.git)
 
-## 📄 Fronted
+## 📄 Frontend
 La lógica del frontend se encuentra en el archivo [index.html](https://github.com/REYBENAVIDES/examen-aws/blob/main/index.html).
 
 ## 📄 Documentación Oficial
