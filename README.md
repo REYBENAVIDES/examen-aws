@@ -38,6 +38,7 @@ Este proyecto consiste en el desarrollo e integración de una arquitectura en la
 ### 3. Integración Final (API Gateway & Frontend)
 * **Endpoint:** Configuración de una HTTP API con soporte completo de CORS.
 * **Cliente Web:** Interfaz que permite al usuario cargar archivos, enviarlos a la nube y recibir la confirmación de guardado exitoso (Status 201).
+* **Codigo:** El codigo se encuentra en el archivo index.html
 
 ---
 
