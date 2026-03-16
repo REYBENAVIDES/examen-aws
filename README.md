@@ -6,7 +6,7 @@
 
 ## 📄 Documentación Oficial
 Puedes revisar el informe detallado del proceso aquí:
-* **[Descargar PDF de Documentación](https://github.com/user-attachments/files/26039042/exaamenNube.pdf)
+**[Descargar PDF de Documentación](https://github.com/user-attachments/files/26039042/exaamenNube.pdf)
 **
 
 ## 📝 Descripción del Proyecto
