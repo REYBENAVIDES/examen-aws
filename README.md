@@ -4,6 +4,9 @@
 **Institución:** UTEQ  
 **Repositorio:** [https://github.com/REYBENAVIDES/examen-aws.git](https://github.com/REYBENAVIDES/examen-aws.git)
 
+## 📄 Fronted
+La lógica del frontend se encuentra en el archivo [index.html](https://github.com/REYBENAVIDES/examen-aws/blob/main/index.html).
+
 ## 📄 Documentación Oficial
 Puedes revisar el informe detallado del proceso aquí:
 **[Descargar PDF de Documentación](https://github.com/user-attachments/files/26039042/exaamenNube.pdf)**
